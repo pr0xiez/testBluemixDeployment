@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedNode
+ - name: txtr-dev
    random-route: true
-   memory: 256M
+   memory: 128M
